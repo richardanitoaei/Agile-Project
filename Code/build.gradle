@@ -1,0 +1,12 @@
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = 'driver.java'
+dependencies {
+  testCompile 'junit:junit:4.12'
+}
+repositories {
+  mavenCentral()
+}
+run { 
+  standardInput = System.in
+}

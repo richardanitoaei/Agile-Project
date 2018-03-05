@@ -1,0 +1,50 @@
+In the Agile Project, you and your team mates are expected to organise yourselves, manage your project and solve technical 
+problems independently. Nevertheless, 6 weeks is a long period to work with others and you might find it helpful to have an 
+idea how to divide up that period and what to do in each week. This page provides a suggested schedule of work that identifies 
+roughly what you should aim to do each week. It is ok to deviate from this, but beware that if you get behind significantly, 
+this may be a sign that remedial action is required.
+
+Week 1
+
+In this week, you should arrange to meet with your team. At this first meeting, you should accomplish the following:
+
+Schedule one or two regular weekly meetings. Try to meet at the same time(s) and place(s) each week. Otherwise, you will 
+have to reschedule meetings each week, and chances are that people will start dropping out of meetings.
+At your first meeting, agree how you are going to work together. Here are some issues you need to agree on:
+How will work be allocated? How do you decide who does what and avoid a situation where two or more people produce competing 
+solutions to the same task?
+How will you decide whether a task (user story) is "done"? Should the code come with comprehensive tests? (This is a 
+rhetorical question: the answer is yes)
+How and when will you code? Is your team adopting pair programming? (This is a good idea if your team consists of 
+inexperience programmers)? Will you be coding at home or together in a lab? (Working together in the same place enhances 
+team communication)
+What roles do you need in your team? (It is a good idea to have at least a project manager, someone to lead/chair meetings 
+and someone to take minutes at meetings) Who will take on what role?
+How are you going to encourage (enforce) all team members to adopt good practices (e.g. write clean code, write clear 
+commit messages, produce tests alongside code, etc.)
+What development tools will you use? (You are required to use Gradle and JUnit. A good code editor, such as atom or 
+sublime, is all you need for coding. Don't use an IDE unless you know exactly how to configure it for group work and 
+#you can help others to do the same thing. If you are going to use an IDE, make sure that everyone is using the same one. 
+If in doubt, don't use an IDE.)
+Create a shared GitHub repository and add all team members as collaborators. Ensure that all team members have configured 
+their name and the right @kcl.ac.uk email address in their local development environment. Ensure that the shared 
+repository is configured with the complete .gitignore file. Register you shared repository on Team Feedback.
+Ensure that all team members have read the project assignment carefully. Then, organise a meeting where you produce a 
+backlog of user stories.
+Have everyone read the principles behind the agile manifesto. Is this something you can all subscribe to?
+Weeks 2—5
+
+In this period, you will be developing your application. Here are some things to watch out for:
+Pace yourself and ensure the rests of the team does to. This is crucial in any project, and especially an agile one. 
+Try to do a bit of development each week.
+Integrate your code regularly, at least every week.
+Aim to produce a minimum viable product by the midway point of the project.
+Code for what you need now, not for the future.
+Deliver code as fast as possible. Make important decisions as late as possible.
+By the end fo the third week or the start of the fourth week, reflect on how things are going and have an honest conversation 
+about this within the team. What works well and what does not work so well? Is there anything you should change?
+Week 6
+
+In the final week of the project, you should focus your efforts on completing the deliverables. Don't add any features or 
+code unless you absolutely have to. Last minute adding of features is a risky because it can cause code regression. 
+Make sure your code builds and passes all tests and is packaged as required. Make sure all deliverables are included.

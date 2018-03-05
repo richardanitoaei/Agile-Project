@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StaffTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-12-14T19:17:15" hostname="sysadmin" time="0.003">
+  <properties/>
+  <testcase name="testClearTask" classname="StaffTest" time="0.0"/>
+  <testcase name="testSetExpert" classname="StaffTest" time="0.0"/>
+  <testcase name="testSetCurrentTask" classname="StaffTest" time="0.001"/>
+  <testcase name="testSetCurrentTaskToSecondTask" classname="StaffTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
